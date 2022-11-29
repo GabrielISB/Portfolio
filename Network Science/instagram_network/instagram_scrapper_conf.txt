@@ -1,0 +1,3 @@
+USER_EMAIL=gabosalazarb
+USER_PASSWORD=*******
+PATH=./chromedriver
